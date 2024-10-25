@@ -1,8 +1,3 @@
-##################################################
-# NSI Parcours en Largeur - 09/02/2024           #
-# Zidane Salim, TG1                              #
-##################################################
-
 ################### Fonctions #######################
 def parcoursLargeur(arbre, racine):
     file = [racine]
